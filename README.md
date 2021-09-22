@@ -2,8 +2,10 @@
 Extracts information from a page of GPUs on ebay and writes 9 fields of product data to a csv file.
 
 
-HOW TO USE
-Run this program in terminal using:
+# HOW TO USE
+
+Run this program in terminal:
+
 cd *folder where this file is located*
 
 py ebayScraper.py
