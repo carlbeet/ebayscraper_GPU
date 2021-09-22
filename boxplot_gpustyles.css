@@ -1,0 +1,38 @@
+
+body {
+
+
+background-image:  url(https://wallpaperaccess.com/full/1483451.jpg);
+background-size:  cover;
+
+
+font-weight:  bold;
+font-family:  "Helvetica";
+text-align: center;
+color:  white;
+
+
+}
+.head{
+
+ font-size:  40px;
+}
+
+.boxplot {
+
+width:  700;
+height:  420;
+  background: rgba(200, 220, 210, 0.9);
+  margin: 30px 50px;
+  outline-color:  white;
+  border-color: white;
+	margin-top:  10px;
+	margin-bottom:  50 px;
+	margin-left:  40px;
+	margin-right:  50 px;
+  text-align: center;
+  font-size:  50px;
+  padding: 20px;
+  border-radius:  50px;
+}
+
